@@ -23,7 +23,7 @@ Imports:
     ggplot2,
     grid,
     openxlsx,
-    NVIcheckmate (>= 0.5.0),
+    NVIcheckmate (>= 0.8.0),
     NVIdb (>= 0.13.1)
 Suggests:
     covr,
