@@ -6,3 +6,6 @@
 inst/doc
 !vignettes/NVIpretty.pdf
 
+NVIpretty.Rcheck/
+NVIpretty*.tar.gz
+NVIpretty*.tgz
