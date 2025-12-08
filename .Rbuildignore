@@ -7,3 +7,6 @@
 ^README\.Rmd$
 ^data-raw$
 ^notes$
+^NVIpretty\.Rcheck$
+^NVIpretty.*\.tar\.gz$
+^NVIpretty.*\.tgz$
